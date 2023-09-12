@@ -9,3 +9,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sasaharukimedes&theme=tokyonight&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+# My Skill ~still learning~ (Programming Languages, Frameworks and Tools)
+
+<img src="https://skillicons.dev/icons?i=html,css,ruby,rails,js,typescript,supabase,deno,vercel,tailwind,bootstrap,react,nextjs,nodejs,postgres,github,vscode, linux" /> <br />
+
+  
