@@ -13,6 +13,6 @@
 # My Skills 
 ## *still learning* (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,ruby,rails,js,typescript,supabase,deno,vercel,tailwind,bootstrap,react,nextjs,nodejs,postgres,github,vscode, linux, astro, cloudflare" /> <br />
+<img src="https://skillicons.dev/icons?i=html,css,ruby,rails,js,typescript,supabase,deno,vercel,tailwind,bootstrap,react,nextjs,nodejs,postgres,github,vscode,linux,astro,cloudflare" /> <br />
 
   
