@@ -1,6 +1,8 @@
-# I'm harukimedes
+# I'm Harukimedes.
 
-## [Here is Introduce myself!](https://gist.github.com/sasaharukimedes/6da771d6e82f2c61c0cb7759b3fb9afc)
+## Click [here](https://gist.github.com/sasaharukimedes/6da771d6e82f2c61c0cb7759b3fb9afc) to see my self-introduction.
+
+## My Portfolio is [here.](https://harukimedes-portfolio.vercel.app/)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasaharukimedes&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
